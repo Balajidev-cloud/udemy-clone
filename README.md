@@ -22,8 +22,7 @@ A simple Udemy clone website built using HTML and CSS. This project replicates t
 
 ## 🚀 Live Demo
 
-👉 https://your-username.github.io/udemy-clone/
-
+👉 https://balajidev-cloud.github.io/udemy-clone/
 ---
 ## 💡 What I Learned
 
